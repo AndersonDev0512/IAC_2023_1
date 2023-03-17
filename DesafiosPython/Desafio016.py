@@ -1,5 +1,5 @@
-numero = int(input('Digite um número'))
-if numero % 2 == 0:
-    print(f'o número:{numero} é par')
+numero = float(input('Digite um número'))
+if numero %2 == 0:
+    print(f'O Número {numero} é par')
 else:
-    print(f'o número:{numero} é impar')
+    print(f'o Número {numero} é impar')
