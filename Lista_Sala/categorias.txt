@@ -1,0 +1,19 @@
+1,Alimento Infantil,0,2023-03-22
+2,Suplementos,0,2023-03-22
+3,Bebidas,0,2023-03-22
+4,Biscoitos Bolos e Bolachas,0,2023-03-22
+5,Carnes,0,2023-03-22
+6,Congelados,0,2023-03-22
+7,Conservas,0,2023-03-22
+8,Doces Balas Chocolates e Cia,0,2023-03-22
+9,Farinhas Cereais e Complementos,0,2023-03-22
+10,Fast-Food Aperitivos e Petiscos,0,2023-03-22
+11,Frios e Embutidos,0,2023-03-22
+12,Frutas,0,2023-03-22
+13,Legumes Verduras e Grãos,0,2023-03-22
+14,Massas,0,2023-03-22
+15,Molhos Caldos e Condimentos,0,2023-03-22
+16,Ovos Leite Queijo e Cia,0,2023-03-22
+17,Pães,0,2023-03-22
+18,Sopas & Cremes,0,2023-03-22
+19,Diversos,0,2023-03-22

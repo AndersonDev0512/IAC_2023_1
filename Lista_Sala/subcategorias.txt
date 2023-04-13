@@ -1,0 +1,96 @@
+1;1;Papinha;0;2023-03-22
+2;1;Sopinha;0;2023-03-22
+3;2;Proteína;0;2023-03-22
+4;2;Carboidratos;0;2023-03-22
+5;2;Vitaminas;0;2023-03-22
+6;2;Hipercalóricos;0;2023-03-22
+7;2;Óxido Nítrico;0;2023-03-22
+8;2;Aminoácidos;0;2023-03-22
+9;2;Propriedade Funcional;0;2023-03-22
+10;3;Achocolatados;0;2023-03-22
+11;3;Bebidas a Base de Soja;0;2023-03-22
+12;3;Bebidas Alcoólicas;0;2023-03-22
+13;3;Café e Cia;0;2023-03-22
+14;3;Chás;0;2023-03-22
+15;3;Isotônicos e Energéticos;0;2023-03-22
+16;3;Refrescos em Pó;0;2023-03-22
+17;3;Refrigerantes;0;2023-03-22
+18;3;Sucos Concentrados;0;2023-03-22
+19;3;Sucos de Frutas Prontos;0;2023-03-22
+20;3;Sucos Naturais;0;2023-03-22
+21;3;Sucos Orgânicos;0;2023-03-22
+22;4;Biscoitos e Bolachas;0;2023-03-22
+23;4;Bolos Caseiros;0;2023-03-22
+24;4;Bolos Prontos;0;2023-03-22
+25;4;Misturas para Bolos;0;2023-03-22
+26;5;Aves (Frango, Peru, etc);0;2023-03-22
+27;5;Boi;0;2023-03-22
+28;5;Frutos do Mar;0;2023-03-22
+29;5;Hamburguers;0;2023-03-22
+30;5;Outras Carnes;0;2023-03-22
+31;5;Peixes;0;2023-03-22
+32;5;Porco;0;2023-03-22
+33;5;Vitela;0;2023-03-22
+34;6;Empanados;0;2023-03-22
+35;6;Hamburguers;0;2023-03-22
+36;6;Legumes & Cia Congelados;0;2023-03-22
+37;6;Pizzas Congeladas;0;2023-03-22
+38;6;Polpas de Frutas Congeladas;0;2023-03-22
+39;6;Pratos Prontos Congelados;0;2023-03-22
+40;6;Salgados Congelados;0;2023-03-22
+41;7;Conservas em Geral;0;2023-03-22
+42;8;Adoçantes;0;2023-03-22
+43;8;Balas;0;2023-03-22
+44;8;Chicletes;0;2023-03-22
+45;8;Chocolates;0;2023-03-22
+46;8;Doces de Frutas;0;2023-03-22
+47;8;Doces Diversos;0;2023-03-22
+48;8;Gelatinas;0;2023-03-22
+49;8;Geléias;0;2023-03-22
+50;8;Ingredientes Doces;0;2023-03-22
+51;8;Mel e Xaropes;0;2023-03-22
+52;8;Sobremesas em Pó;0;2023-03-22
+53;8;Sobremesas Lácteas;0;2023-03-22
+54;8;Sorvetes;0;2023-03-22
+55;8;Tortas;0;2023-03-22
+56;9;Cereal Matinal;0;2023-03-22
+57;9;Farinhas e Cereais Diversos;0;2023-03-22
+58;9;Mingau e Cia;0;2023-03-22
+59;10;Amendoim e Etc;0;2023-03-22
+60;10;Batata Frita;0;2023-03-22
+61;10;Bobs;0;2023-03-22
+62;10;Casa da Empada;0;2023-03-22
+63;10;Habibs;0;2023-03-22
+64;10;Mc Donalds;0;2023-03-22
+65;10;Pastas & Patês;0;2023-03-22
+66;10;Petiscos Diversos;0;2023-03-22
+67;10;Pipoca;0;2023-03-22
+68;10;Pizzas Congeladas;0;2023-03-22
+69;10;Rei do Mate;0;2023-03-22
+70;10;Salgadinhos & Snacks;0;2023-03-22
+71;11;Frios e Embutidos em Geral;0;2023-03-22
+72;12;Doces de Frutas;0;2023-03-22
+73;12;Frutas Diversas;0;2023-03-22
+74;12;Frutas Secas e em Calda;0;2023-03-22
+75;12;Polpas de Frutas Congeladas;0;2023-03-22
+76;12;Sucos Concentrados;0;2023-03-22
+77;12;Sucos de Frutas Prontos;0;2023-03-22
+78;12;Sucos Naturais;0;2023-03-22
+79;12;Sucos Orgânicos;0;2023-03-22
+80;13;Legumes & Cia Congelados;0;2023-03-22
+81;13;Legumes e Cia Naturais;0;2023-03-22
+82;14;Massas em Geral;0;2023-03-22
+83;15;Caldos;0;2023-03-22
+84;15;Catchup & Mostarda;0;2023-03-22
+85;15;Maionese;0;2023-03-22
+86;15;Molhos;0;2023-03-22
+87;15;Outros Condimentos;0;2023-03-22
+88;16;Iogurtes;0;2023-03-22
+89;16;Leite;0;2023-03-22
+90;16;Milkshakes;0;2023-03-22
+91;16;Ovos;0;2023-03-22
+92;16;Queijos;0;2023-03-22
+93;16;Sobremesas Lácteas;0;2023-03-22
+94;17;Pães em Geral;0;2023-03-22
+95;18;Sopas em Geral;0;2023-03-22
+96;19;Diversos sem Categoria;0;2023-03-22
